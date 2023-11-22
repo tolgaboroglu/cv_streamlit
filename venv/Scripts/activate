@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\tolga\cv_streamlit\venv"
+VIRTUAL_ENV="C:\Users\tolga\OneDrive\Belgeler\GitHub\cv_streamlit\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
