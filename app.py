@@ -106,7 +106,7 @@ st.write("---")
 
 # --- JOB 1
 st.write("🚧", " **Data Analyst | Kodlasam** ")
-st.write("03/2023 - Present")
+st.write("03/2023 - 12/2023")
 st.write(
     """
 - ►  Experienced instructor in Data Analysis using Python, delivering comprehensive instruction to participants in a Bootcamp program. Designed
