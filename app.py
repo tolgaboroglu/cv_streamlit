@@ -109,7 +109,7 @@ st.write("🚧", " **Data Analyst | Kodlasam** ")
 st.write("03/2023 - 12/2023")
 st.write(
     """
-- ►  Experienced instructor in Data Analysis using Python, delivering comprehensive instruction to participants in a Bootcamp program. Designed
+- ►  Experienced instructor in Data Analysis using Python, delivering comprehensive instruction to participants in a Bootcamp program.Designed
 and developed curriculum materials, lesson plans, and learning resources to effectively convey complex concepts. Provided hands-on training
 and guidance, facilitating students' understanding and application of Python for data analysis tasks. Created engaging and interactive learning
 experiences through practical exercises and real-world case studies
